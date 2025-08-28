@@ -11,17 +11,20 @@
 
 Skills:
 
-✅ WordPress Website Design & Development 
-✅ Facebook / TikTok / Google Pixel Setup & Tracking 
-✅ Product Landing Page Design & Development 
-✅ ReactJS, JavaScript & PHP 
-✅ HTML5 / CSS3 / SASS / Bootstrap  
-✅ Photoshop / Illustrator/ premiere pro
+- ✅ WordPress Website Design & Development 
+- ✅ Facebook / TikTok / Google Pixel Setup & Tracking 
+- ✅ Product Landing Page Design & Development 
+- ✅ ReactJS, JavaScript & PHP 
+- ✅ HTML5 / CSS3 / SASS / Bootstrap  
+- ✅ Photoshop / Illustrator/ premiere pro
 
 - 🔭 I’m currently working on YouTube & FB Ads  
 - 🌱 I’m currently learning javascript 
-- 📫 How to reach me: Contact with WhatsApp  
-
+- 📫 How to reach me: Contact with WhatsApp
+-   
+- ☕ Let’s Connect!
+- 📧 Business Inquiries: riazulto@gmail.com
+- 💬 Open to collaborations, knowledge sharing, and exciting new projects!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RiazulOn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/RiazulOn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/RiazulOn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Riazul)  
 
